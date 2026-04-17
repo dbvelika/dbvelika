@@ -1,4 +1,4 @@
-🇧🇷 Português | 🇺🇸 English
+[🇧🇷 Português](#-olá-eu-sou-o-danilo) | [🇺🇸 English](#-hi-im-danilo)
 
 # 👋 Olá! Eu sou o Danilo
 
@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Bem-vindo+ao+meu+GitHub!)
 
-## 🚀 Sobre mim
+## 🙋🏻‍♂️ Sobre mim
 - 🔭 Atualmente trabalhando na área administrativa
 - 🌱 Estudando desenvolvimento de software
 - 🎯 Objetivo: conquistar minha primeira oportunidade na área de TI
@@ -47,8 +47,6 @@
 
 ---
 
-# 🌎 English Version
-
 # 👋 Hi! I'm Danilo
 
 🎓 Systems Analysis and Development Student  
@@ -57,7 +55,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Welcome+to+my+GitHub!)
 
-## 🚀 About Me
+## 🙋🏻‍♂️ About Me
 - 🔭 Currently working in the administrative area
 - 🌱 Learning software development
 - 🎯 Goal: land my first job in the IT field
