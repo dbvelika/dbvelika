@@ -30,7 +30,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBVELIKA&layout=compact&theme=radical)
 
 ## 📊 Estatísticas
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)
+
 
 ## 📌 Projetos
 - Sistema de Delivery em Java
