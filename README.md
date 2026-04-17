@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 English
+
 # 👋 Olá! Eu sou o Danilo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
@@ -40,5 +42,42 @@
 - Sistema de Notas em C++
 
 ## 📫 Contato
+- LinkedIn: www.linkedin.com/in/danilo-bissaco-velika-74317b33a
+- Email: danilobvelika@gmail.com
+
+---
+
+# 🌎 English Version
+
+# 👋 Hi! I'm Danilo
+
+🎓 Systems Analysis and Development Student  
+💻 Industrial Automation Technician  
+📍 Brazil  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Welcome+to+my+GitHub!)
+
+## 🚀 About Me
+- 🔭 Currently working in the administrative area
+- 🌱 Learning software development
+- 🎯 Goal: land my first job in the IT field
+
+## 🛠️ Technologies
+- 💻 Languages: C, Java, Python, HTML, CSS, and PHP
+- 🛢️ Databases: PostgreSQL
+- ⚙️ Tools: Arduino, Git
+
+## 📊 Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBVELIKA&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)
+
+## 📌 Projects
+- Java Delivery System
+- PHP Chatbot with Database
+- Python To-Do List
+- C++ Grade System
+
+## 📫 Contact
 - LinkedIn: www.linkedin.com/in/danilo-bissaco-velika-74317b33a
 - Email: danilobvelika@gmail.com
