@@ -21,7 +21,7 @@
 ---
 
 ## 📊 Estatísticas
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)
 
 ---
 
