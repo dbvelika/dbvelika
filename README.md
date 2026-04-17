@@ -28,7 +28,7 @@
 
 
 ## 📊 Estatísticas
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical)
 
 
 ## 📌 Projetos
