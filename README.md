@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Danilo
 
-<!--
-**dbvelika/dbvelika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Técnico em Automação Industrial  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔭 Atualmente trabalhando na área administrativa
+- 🌱 Estudando desenvolvimento de software
+- 🎯 Objetivo: conquistar minha primeira oportunidade na área de TI
+
+---
+
+## 🛠️ Tecnologias
+- 💻 Linguagens: C, Java, Python, HTML, CSS e PHP
+- 🛢️ Banco de dados: PostgreSQL
+- ⚙️ Ferramentas: Arduino, Git
+
+---
+
+## 📊 Estatísticas
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/danilo-bissaco-velika-74317b33a
+- Email: danilobvelika@gmail.com
