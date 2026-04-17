@@ -4,7 +4,7 @@
 💻 Técnico em Automação Industrial  
 📍 Brasil  
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Bem-vindo+ao+meu+GitHub!)
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente trabalhando na área administrativa
@@ -22,11 +22,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 📊 Estatísticas
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DBVELIKA&show_icons=true&theme=radical)
 
 
 ## 📌 Projetos
@@ -38,4 +40,3 @@
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/danilo-bissaco-velika-74317b33a
 - Email: danilobvelika@gmail.com
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Bem-vindo+ao+meu+GitHub!)
